@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CollabKanban",
+  "description": "A modern, collaborative Kanban board with real-time sync capabilities using Firebase (or local simulation).",
+  "requestFramePermissions": []
+}
