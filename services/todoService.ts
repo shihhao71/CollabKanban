@@ -17,7 +17,7 @@ import {
 // 1. Go to Firebase Console -> Project Settings -> General -> Your apps
 // 2. Copy the config object properties and paste them below.
 const firebaseConfig = {
-  apiKey: "AIzaSyCoP1hLOOwj29CKyV9QIB_ij2qU6l-tvJs",
+  apiKey: "",
   authDomain: "to-do-list-facfe.firebaseapp.com",
   projectId: "to-do-list-facfe",
   storageBucket: "to-do-list-facfe.firebasestorage.app",
